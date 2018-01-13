@@ -1,0 +1,9 @@
+install jetpack2.0
+
+install oralce jdk for armhf
+
+sudo apt-get cmake libopencv-dev
+
+clone wpilibutils and ntcore
+ gradlew build
+ sudo gradlew publish
